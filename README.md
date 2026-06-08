@@ -91,10 +91,10 @@ Simulation waveform:
 
 | File | Description |
 |---|---|
-| `elevator_controller.v` | RTL design of the elevator controller |
-| `elevator_controller_tb.v` | Verilog testbench for simulation |
-| `waveform.png` | Simulation waveform screenshot |
 | `README.md` | Project documentation |
+| `elevator_controller.v` | RTL design of the elevator controller |
+| `elevator_controller_tb.v` | Verilog testbench used for behavioral simulation |
+| `waveform.png` | Simulation waveform screenshot |
 
 ---
 
