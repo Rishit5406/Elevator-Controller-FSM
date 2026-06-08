@@ -89,14 +89,14 @@ Simulation waveform:
 
 ## Repository Files
 
-| File | Description |
-|---|---|
-| `README.md` | Project documentation |
-| `elevator_controller.v` | RTL design of the elevator controller |
-| `elevator_controller_tb.v` | Verilog testbench used for behavioral simulation |
-| `waveform.png` | Simulation waveform screenshot |
+| File                                  | Description                                              |
+| ------------------------------------- | -------------------------------------------------------- |
+| `README.md`                           | Project documentation                                    |
+| `elevator_controller.v`               | RTL design of the elevator controller                    |
+| `elevator_controller_tb.v`            | Verilog testbench used for behavioral simulation         |
+| `elevator_controller_tb_waveform.wdb` | Vivado waveform database file generated after simulation |
+| `waveform.png`                        | Simulation waveform screenshot                           |
 
----
 
 ## Tools Used
 
